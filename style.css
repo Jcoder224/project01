@@ -1,0 +1,62 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.box {
+    background-color: white;
+    color: hsl(13, 5%, 39%);
+    height: 100%;
+    width: 70vw;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    font-family: "Young Serif", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+h3 {
+    font-family: "Young Serif", serif;
+}
+
+img {
+
+    height: 900%;
+    width: 70vw;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.small {
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+li {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+ 
+.instruction {
+    font-family: "Alegreya", serif;
+}
